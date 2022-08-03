@@ -1,0 +1,2 @@
+Line 7: Reads text from the text file using 'readfromtext' and stores it in 'text'
+Line 8: 'text' is splitted by newline as stored inside a vector called 'Lines'
